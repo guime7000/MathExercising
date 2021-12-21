@@ -1,0 +1,3 @@
+Future implementation of the polynom...
+
+Might lead to a new version of the Distributivity Exerciser
